@@ -1,0 +1,11 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#fffbeb"/>
+  <rect x="180" y="200" width="40" height="80" fill="#f59e0b"/>
+  <ellipse cx="200" cy="100" rx="60" ry="30" fill="#fbbf24" opacity="0.8"/>
+  <line x1="200" y1="130" x2="200" y2="200" stroke="#f59e0b" stroke-width="4"/>
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="16" fill="#d97706" text-anchor="middle">💡 デスクランプ</text>
+</svg>
+
+
+
+

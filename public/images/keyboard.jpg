@@ -1,0 +1,29 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f0f9ff"/>
+  <rect x="80" y="120" width="240" height="80" rx="8" fill="#0ea5e9"/>
+  <g fill="#ffffff">
+    <rect x="90" y="130" width="15" height="15" rx="2"/>
+    <rect x="110" y="130" width="15" height="15" rx="2"/>
+    <rect x="130" y="130" width="15" height="15" rx="2"/>
+    <rect x="150" y="130" width="15" height="15" rx="2"/>
+    <rect x="170" y="130" width="15" height="15" rx="2"/>
+    <rect x="190" y="130" width="15" height="15" rx="2"/>
+    <rect x="210" y="130" width="15" height="15" rx="2"/>
+    <rect x="230" y="130" width="15" height="15" rx="2"/>
+    <rect x="250" y="130" width="15" height="15" rx="2"/>
+    <rect x="270" y="130" width="15" height="15" rx="2"/>
+    <rect x="290" y="130" width="15" height="15" rx="2"/>
+    <rect x="90" y="150" width="15" height="15" rx="2"/>
+    <rect x="110" y="150" width="15" height="15" rx="2"/>
+    <rect x="130" y="150" width="15" height="15" rx="2"/>
+    <rect x="150" y="150" width="80" height="15" rx="2"/>
+    <rect x="235" y="150" width="15" height="15" rx="2"/>
+    <rect x="255" y="150" width="15" height="15" rx="2"/>
+    <rect x="275" y="150" width="15" height="15" rx="2"/>
+    <rect x="295" y="150" width="15" height="15" rx="2"/>
+  </g>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="16" fill="#0369a1" text-anchor="middle">⌨️ キーボード</text>
+</svg>
+
+
+

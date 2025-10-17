@@ -39,10 +39,11 @@ export const CartItem: React.FC<CartItemProps> = ({ item }) => {
           src={item.product.image}
           alt={item.product.name}
           fill
+          unoptimized
           className="object-cover rounded-md"
           onError={(e) => {
             const target = e.target as HTMLImageElement;
-            target.src = '/images/placeholder.jpg';
+            target.src = '/images/placeholder.svg';
           }}
         />
       </div>

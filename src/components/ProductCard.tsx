@@ -30,10 +30,11 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           src={product.image}
           alt={product.name}
           fill
+          unoptimized
           className="object-cover"
           onError={(e) => {
             const target = e.target as HTMLImageElement;
-            target.src = '/images/placeholder.jpg';
+            target.src = '/images/placeholder.svg';
           }}
         />
         {product.stock <= 5 && product.stock > 0 && (
